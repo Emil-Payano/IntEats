@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:Local="clr-namespace:XamarinHomework1"
+             x:Class="XamarinHomework1.AppPage">
+  <!--Pages can be added as references or inline-->
+
+    <ContentPage Title="Home" IconImageSource="HomeIcon" BackgroundColor="Gray" />
+    <Local:DiscoveryPage Title="DiscoveryPage" IconImageSource="DiscoveryIcon"/>
+    <ContentPage Title="Book Marks" IconImageSource="BookMarkIcon" BackgroundColor="Gray"/>
+    <ContentPage Title="Top Foods" IconImageSource="TopIcon" BackgroundColor="Gray"/>
+    <ContentPage Title="Profile" IconImageSource="ProfileIcon" BackgroundColor="Gray"/>
+</TabbedPage>

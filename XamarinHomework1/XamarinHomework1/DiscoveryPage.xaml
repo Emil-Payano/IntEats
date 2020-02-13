@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinHomework1.DiscoveryPage"
+             Title="DiscoveryPage">
+    
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid RowSpacing="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="10*"/>
+                    <ColumnDefinition Width="10*"/>
+                </Grid.ColumnDefinitions>
+                <BoxView HeightRequest="50" WidthRequest="400" BackgroundColor="White" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" HorizontalOptions="FillAndExpand"/>
+                <Label Text="Discovery"  BackgroundColor="White" FontSize="20" FontAttributes="Bold"  TextColor="Black" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalOptions="Center" Margin="0,10"/>
+                <BoxView Style = "{StaticResource DiscoveryBoxviewSyle}" x:Name="Boxview11" Grid.Row="1" Grid.Column="0" Grid.RowSpan="4"/>
+                <ImageButton Style="{StaticResource DiscoveryImageButton}" Clicked="Click1" Source="BeerIcon" Grid.Row="2" Grid.Column="0"/>
+                <Label Text="Bars Hotels" Style="{StaticResource DiscoveryCenterLabel}" Grid.Row="3" Grid.Column="0"/>
+                <Label Text="42 Place" Style="{StaticResource DiscoveryFillLabel}" Grid.Row="4" Grid.Column="0"/>
+                <BoxView Style = "{StaticResource DiscoveryBoxviewSyle}" x:Name="Boxview2" Grid.Row="5" Grid.Column="0"  Grid.RowSpan="4"/>
+                <ImageButton Style="{StaticResource DiscoveryImageButton}" Clicked="Click2" Source="CafesIcon" Grid.Row="6" Grid.Column="0"/>
+                <Label Text="Cafes" Style="{StaticResource DiscoveryCenterLabel}" Grid.Row="7" Grid.Column="0"/>
+                <Label Text="26 Place" Style="{StaticResource DiscoveryFillLabel}" Grid.Row="8" Grid.Column="0"/>
+                <BoxView Style = "{StaticResource DiscoveryBoxviewSyle}" x:Name="Boxview3" Grid.Row="9" Grid.Column="0"  Grid.RowSpan="4"/>
+                <ImageButton Style="{StaticResource DiscoveryImageButton}" Clicked="Click3" Source="FastFoodIcon" Grid.Row="10" Grid.Column="0" />
+                <Label Text="Fast Foods" Style="{StaticResource DiscoveryCenterLabel}"  Grid.Row="11" Grid.Column="0"/>
+                <Label Text="29 Place" Style="{StaticResource DiscoveryFillLabel}"  Grid.Row="12" Grid.Column="0"/>
+                <BoxView Style = "{StaticResource DiscoveryBoxviewSyle}" x:Name="Boxview4" Grid.Row="1" Grid.Column="1"  Grid.RowSpan="4"/>
+                <ImageButton Style="{StaticResource DiscoveryImageButton}" Clicked="Click4" Source="DiningIcon" Grid.Row="2" Grid.Column="1"/>
+                <Label Text="Fine Dining" Style="{StaticResource DiscoveryCenterLabel}" Grid.Row="3" Grid.Column="1"/>
+                <Label Text="16 Place" Style="{StaticResource DiscoveryFillLabel}" Grid.Row="4" Grid.Column="1"/>
+                <BoxView Style = "{StaticResource DiscoveryBoxviewSyle}"  x:Name="Boxview5" Grid.Row="5" Grid.Column="1"  Grid.RowSpan="4"/>
+                <ImageButton Style="{StaticResource DiscoveryImageButton}" Clicked="Click5" Source="NearbyIcon" Grid.Row="6" Grid.Column="1"/>
+                <Label Text="Nearby" Style="{StaticResource DiscoveryCenterLabel}" Grid.Row="7" Grid.Column="1"/>
+                <Label Text="34 Place" Style="{StaticResource DiscoveryFillLabel}" Grid.Row="8" Grid.Column="1"/>
+                <BoxView Style = "{StaticResource DiscoveryBoxviewSyle}" x:Name="Boxview6" Grid.Row="9" Grid.Column="1" Grid.RowSpan="4"/>
+                <ImageButton Style="{StaticResource DiscoveryImageButton}" Clicked="Click6" Source="FeaturedFoodsIcon" Grid.Row="10" Grid.Column="1"/>
+                <Label Text="Featured Foods" Style="{StaticResource DiscoveryCenterLabel}" Grid.Row="11" Grid.Column="1"/>
+                <Label Text="21 Place" Style="{StaticResource DiscoveryFillLabel}" Grid.Row="12" Grid.Column="1"/>
+            </Grid>
+
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

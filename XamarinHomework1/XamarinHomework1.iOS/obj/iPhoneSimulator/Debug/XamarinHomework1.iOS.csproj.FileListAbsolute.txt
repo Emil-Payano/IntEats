@@ -1,0 +1,14 @@
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\XamarinHomework1.iOS.csprojAssemblyReference.cache
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1.iOS\obj\iPhoneSimulator\Debug\XamarinHomework1.iOS.csprojAssemblyReference.cache

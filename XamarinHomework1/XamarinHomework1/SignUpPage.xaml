@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinHomework1.SignUpPage"
+             BackgroundColor="White">
+
+    <ContentPage.Content>
+
+        <ScrollView>
+            <Grid Style = "{StaticResource PaddingPageStyle}">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2.5*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    
+                </Grid.ColumnDefinitions>
+
+                <Label Text="Sing Up" HorizontalOptions="Start" Style="{StaticResource LabelTitleStyle}" FontAttributes="Bold" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"/>
+                <Button Text="login" HorizontalOptions="End" FontSize="Medium" TextColor="Gray" BackgroundColor="White" VerticalOptions="End" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Clicked="VolverLogin"/>
+                <Image Source="NoteIcon" HorizontalOptions="Center" HeightRequest="100" WidthRequest="100" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" />
+                
+                <Entry Placeholder="Email adress" x:Name="emailParametro2" TextColor="Gray" HorizontalOptions="Center" Grid.Row="2" Grid.Column="0" WidthRequest="270"/>
+                <Entry Placeholder="Username" TextColor="Gray" HorizontalOptions="Center" Grid.Row="3" Grid.Column="0"  WidthRequest="270"/>
+                <Entry IsPassword="True" Placeholder="Password" HorizontalOptions="Center" x:Name="Password" Grid.Row="4" TextColor="Gray" Grid.Column="0" WidthRequest="270"/>
+                <Entry IsPassword="True" Placeholder="Repeat Password" HorizontalOptions="Center" x:Name="RepeatPassword" TextColor="Gray" Grid.Row="5" Grid.Column="0"  WidthRequest="270"/>
+                <ImageButton Source="VisibilityIcon" Clicked="ShowPass"  Grid.Row="4" Grid.Column="1" BackgroundColor="White"/>
+                <ImageButton Source="VisibilityIcon" Clicked="ShowPass1"  Grid.Row="5" Grid.Column="1" BackgroundColor="White"/>
+
+                <Button Text="SING UP" HorizontalOptions="Center" WidthRequest="170" HeightRequest="50" CornerRadius="10" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" Clicked="Register"/>
+                <Label Text="Terms of Service" HorizontalOptions="Center" TextColor="Gray" Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2"/>
+                <BoxView Color="Gray" HorizontalOptions="FillAndExpand" HeightRequest="1" Grid.Row="8" Grid.Column="0" Grid.ColumnSpan="2"/>
+
+
+            </Grid>
+        </ScrollView>
+
+    </ContentPage.Content>
+</ContentPage>

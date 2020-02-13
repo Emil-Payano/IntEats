@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinHomework1.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            
+            <Style x:Key="LabelTitleStyle" TargetType="Label">
+
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="FontSize" Value="50"/>
+               
+            </Style>
+
+            <Style x:Key="PaddingPageStyle" TargetType="Grid">
+
+                <Setter Property="Padding" Value="30,30"/>
+                <Setter Property="RowSpacing" Value="23"/>
+            </Style>
+
+            <Style x:Key="DiscoveryBoxviewSyle" TargetType="BoxView">
+
+                <Setter Property="WidthRequest" Value="170"/>
+                <Setter Property="HeightRequest" Value="170"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="BackgroundColor" Value="White"/>
+            </Style>
+            <Style x:Key="DiscoveryImageButton" TargetType="ImageButton">
+                <Setter Property="WidthRequest" Value="70"/>
+                <Setter Property="HeightRequest" Value="70"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="BackgroundColor" Value="White"/>
+            </Style>
+            <Style x:Key="DiscoveryCenterLabel" TargetType="Label">
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="FontSize" Value="17"/>
+            </Style>
+
+            <Style x:Key="DiscoveryFillLabel" TargetType="Label">
+                <Setter Property="TextColor" Value="Gray"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="FontSize" Value="15"/>
+                <Setter Property="Margin" Value="0,7"/>
+
+            </Style>
+
+        </ResourceDictionary>
+    </Application.Resources>
+    
+</Application>

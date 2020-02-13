@@ -1,0 +1,48 @@
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\XamarinHomework1.deps.json
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\XamarinHomework1.dll
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\ref\XamarinHomework1.dll
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\XamarinHomework1.pdb
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.csprojAssemblyReference.cache
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.AssemblyInfoInputs.cache
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.AssemblyInfo.cs
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.dll
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\ref\XamarinHomework1.dll
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.pdb
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Emilp\source\repos\XamarinHomework1\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\XamarinHomework1.deps.json
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\XamarinHomework1.dll
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\ref\XamarinHomework1.dll
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\XamarinHomework1.pdb
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.AssemblyInfoInputs.cache
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.AssemblyInfo.cs
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.dll
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\ref\XamarinHomework1.dll
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.pdb
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\AppPage.xaml.g.cs
+C:\Users\Emil\Downloads\Xamarin-Homework-master\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.csprojAssemblyReference.cache
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.csprojAssemblyReference.cache
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\AppPage.xaml.g.cs
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.AssemblyInfoInputs.cache
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.AssemblyInfo.cs
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.dll
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\ref\XamarinHomework1.dll
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamarinHomework1.pdb
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\XamarinHomework1.deps.json
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\XamarinHomework1.dll
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\ref\XamarinHomework1.dll
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\bin\Debug\netstandard2.0\XamarinHomework1.pdb
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Emilp\Downloads\New folder (5)\XamarinHomework1\XamarinHomework1\obj\Debug\netstandard2.0\DiscoveryPage.xaml.g.cs
