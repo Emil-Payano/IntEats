@@ -17,7 +17,7 @@ namespace XamarinHomework1
             InitializeComponent();
         }
 
-        public void CambiarColor(BoxView boxView)
+        public void ChangeColor(BoxView boxView)
         {
 
             Device.StartTimer(TimeSpan.FromSeconds(1), () =>
