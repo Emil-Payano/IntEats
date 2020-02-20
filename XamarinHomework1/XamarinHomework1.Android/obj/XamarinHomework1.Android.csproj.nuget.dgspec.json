@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1.Android\\XamarinHomework1.Android.csproj": {}
+    "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.Android\\XamarinHomework1.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1.Android\\XamarinHomework1.Android.csproj": {
+    "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.Android\\XamarinHomework1.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1.Android\\XamarinHomework1.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.Android\\XamarinHomework1.Android.csproj",
         "projectName": "XamarinHomework1.Android",
-        "projectPath": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1.Android\\XamarinHomework1.Android.csproj",
+        "projectPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.Android\\XamarinHomework1.Android.csproj",
         "packagesPath": "C:\\Users\\Emilp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1.Android\\obj\\",
+        "outputPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj": {
-                "projectPath": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj"
+              "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj": {
+                "projectPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj"
               }
             }
           }
@@ -42,6 +42,16 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
+            "Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.2.6, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.3.1, )"
@@ -54,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj": {
+    "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj",
+        "projectUniqueName": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj",
         "projectName": "XamarinHomework1",
-        "projectPath": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj",
+        "projectPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj",
         "packagesPath": "C:\\Users\\Emilp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\obj\\",
+        "outputPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -98,6 +108,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.2.6, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

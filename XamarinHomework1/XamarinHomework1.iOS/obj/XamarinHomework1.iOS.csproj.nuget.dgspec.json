@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj": {}
+    "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj": {
+    "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj",
         "projectName": "XamarinHomework1.iOS",
-        "projectPath": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj",
+        "projectPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj",
         "packagesPath": "C:\\Users\\Emilp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1.iOS\\obj\\",
+        "outputPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj": {
-                "projectPath": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj"
+              "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj": {
+                "projectPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj": {
+    "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj",
+        "projectUniqueName": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj",
         "projectName": "XamarinHomework1",
-        "projectPath": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj",
+        "projectPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj",
         "packagesPath": "C:\\Users\\Emilp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emilp\\Downloads\\New folder (5)\\XamarinHomework1\\XamarinHomework1\\obj\\",
+        "outputPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -109,6 +109,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.2.6, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

@@ -11,26 +11,29 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ContentViews\**" />
+    <EmbeddedResource Remove="ContentViews\**" />
+    <None Remove="ContentViews\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PropertyChanged.Fody" Version="3.2.6" />
     <PackageReference Include="Xamarin.Forms" Version="4.3.0.908675" />
     <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="AppPage.xaml">
+    <EmbeddedResource Update="Views\AppPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="DiscoveryPage.xaml">
+    <EmbeddedResource Update="Views\DiscoveryPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="LoginPage.xaml">
+    <EmbeddedResource Update="Views\LoginPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="SignUpPage.xaml">
+    <EmbeddedResource Update="Views\SignUpPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="ContentViews\" />
   </ItemGroup>
 </Project>
