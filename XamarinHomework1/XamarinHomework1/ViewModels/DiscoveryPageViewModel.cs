@@ -10,6 +10,7 @@ namespace XamarinHomework1.ViewModels
 {
     public class DiscoveryPageViewModel : INotifyPropertychanged
     {
+        public event PropertyChangedEventHandler PropertyChanged;
         public HomeModel FirstElement { get; set; } = new HomeModel();
 
         public HomeModel SecondElement { get; set; } = new HomeModel();
@@ -128,6 +129,6 @@ namespace XamarinHomework1.ViewModels
                 SixElement.BoxColor = Color.Yellow;
             });    
         }
-        public event PropertyChangedEventHandler PropertyChanged;
+        
     }
 }

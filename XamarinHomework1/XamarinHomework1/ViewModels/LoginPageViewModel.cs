@@ -10,6 +10,7 @@ namespace XamarinHomework1.ViewModels
 {
     class LoginPageViewModel : INotifyPropertychanged
     {
+        public event PropertyChangedEventHandler PropertyChanged;
         public User User { get; set; } = new User();
         public ICommand LoginCommand { get; set; }
         public ICommand GoToSignUpCommand { get; set; }
@@ -41,7 +42,7 @@ namespace XamarinHomework1.ViewModels
 
             });
 
-            ShowPassCommand = new Command(async () =>
+            ShowPassCommand = new Command( () =>
             {
                 User.Condition = !User.Condition;
 

@@ -44,40 +44,40 @@
                 <Label Text="{Binding FirstElement.SubTitle}" Style="{StaticResource DiscoveryFillLabel}" Grid.Row="4" Grid.Column="0"/>
 
                 <BoxView Style = "{StaticResource DiscoveryBoxviewSyle}" BackgroundColor="{Binding SecondElement.BoxColor}" x:Name="Boxview2" Grid.Row="5" Grid.Column="0"  Grid.RowSpan="4"/>
-                
-                <ImageButton Style="{StaticResource DiscoveryImageButton}" Clicked="Click2" Source="{Binding SecondElement.Icon}" Grid.Row="6" Grid.Column="0"/>
+
+                <ImageButton Style="{StaticResource DiscoveryImageButton}" Command="{Binding ChangeColorCommand1}" Source="{Binding SecondElement.Icon}" Grid.Row="6" Grid.Column="0"/>
                 
                 <Label Text="{Binding SecondElement.Title}" Style="{StaticResource DiscoveryCenterLabel}" Grid.Row="7" Grid.Column="0"/>
 
                 <Label Text="{Binding FirstElement.SubTitle}" Style="{StaticResource DiscoveryFillLabel}" Grid.Row="8" Grid.Column="0"/>
 
                 <BoxView Style = "{StaticResource DiscoveryBoxviewSyle}" BackgroundColor="{Binding ThirdElement.BoxColor}" x:Name="Boxview3" Grid.Row="9" Grid.Column="0"  Grid.RowSpan="4"/>
-                
-                <ImageButton Style="{StaticResource DiscoveryImageButton}" Clicked="Click3" Source="{Binding ThirdElement.Icon}" Grid.Row="10" Grid.Column="0" />
+
+                <ImageButton Style="{StaticResource DiscoveryImageButton}" Command="{Binding ChangeColorCommand2}" Source="{Binding ThirdElement.Icon}" Grid.Row="10" Grid.Column="0" />
 
                 <Label Text="{Binding ThirdElement.Title}" Style="{StaticResource DiscoveryCenterLabel}"  Grid.Row="11" Grid.Column="0"/>
 
                 <Label Text="{Binding FirstElement.SubTitle}" Style="{StaticResource DiscoveryFillLabel}"  Grid.Row="12" Grid.Column="0"/>
 
                 <BoxView Style = "{StaticResource DiscoveryBoxviewSyle}" BackgroundColor="{Binding  FourthElement.BoxColor}" x:Name="Boxview4" Grid.Row="1" Grid.Column="1"  Grid.RowSpan="4"/>
-                
-                <ImageButton Style="{StaticResource DiscoveryImageButton}" Clicked="Click4" Source="{Binding FourthElement.Icon}" Grid.Row="2" Grid.Column="1"/>
+
+                <ImageButton Style="{StaticResource DiscoveryImageButton}" Command="{Binding ChangeColorCommand3}" Source="{Binding FourthElement.Icon}" Grid.Row="2" Grid.Column="1"/>
 
                 <Label Text="{Binding FourthElement.Title}" Style="{StaticResource DiscoveryCenterLabel}" Grid.Row="3" Grid.Column="1"/>
 
                 <Label Text="{Binding FirstElement.SubTitle}" Style="{StaticResource DiscoveryFillLabel}" Grid.Row="4" Grid.Column="1"/>
 
                 <BoxView Style = "{StaticResource DiscoveryBoxviewSyle}" BackgroundColor="{Binding FithElement.BoxColor}" x:Name="Boxview5" Grid.Row="5" Grid.Column="1"  Grid.RowSpan="4"/>
-                
-                <ImageButton Style="{StaticResource DiscoveryImageButton}" Clicked="Click5" Source="{Binding FithElement.Icon}" Grid.Row="6" Grid.Column="1"/>
+
+                <ImageButton Style="{StaticResource DiscoveryImageButton}" Command="{Binding ChangeColorCommand4}" Source="{Binding FithElement.Icon}" Grid.Row="6" Grid.Column="1"/>
 
                 <Label Text="{Binding  FithElement.Title}" Style="{StaticResource DiscoveryCenterLabel}" Grid.Row="7" Grid.Column="1"/>
 
                 <Label Text="{Binding FirstElement.SubTitle}" Style="{StaticResource DiscoveryFillLabel}" Grid.Row="8" Grid.Column="1"/>
 
                 <BoxView Style = "{StaticResource DiscoveryBoxviewSyle}" BackgroundColor="{Binding SixElement.BoxColor}" x:Name="Boxview6" Grid.Row="9" Grid.Column="1" Grid.RowSpan="4"/>
-                
-                <ImageButton Style="{StaticResource DiscoveryImageButton}" Clicked="Click6" Source="{Binding SixElement.Icon}" Grid.Row="10" Grid.Column="1"/>
+
+                <ImageButton Style="{StaticResource DiscoveryImageButton}" Command="{Binding ChangeColorCommand5}" Source="{Binding SixElement.Icon}" Grid.Row="10" Grid.Column="1"/>
 
                 <Label Text="{Binding SixElement.Title}" Style="{StaticResource DiscoveryCenterLabel}" Grid.Row="11" Grid.Column="1"/>
 

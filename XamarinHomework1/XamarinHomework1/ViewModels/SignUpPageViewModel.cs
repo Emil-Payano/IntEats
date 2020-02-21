@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Text;
 using System.Windows.Input;
 using Xamarin.Forms;
@@ -9,6 +10,7 @@ namespace XamarinHomework1.ViewModels
 {
     class SignUpPageViewModel : INotifyPropertychanged
     {
+        public event PropertyChangedEventHandler PropertyChanged;
         public User User { get; set; } = new User();
         public ICommand GoLoginCommand { get; set; }
         public ICommand ShowPassCommand { get; set; }
@@ -17,13 +19,13 @@ namespace XamarinHomework1.ViewModels
         {
             User.Condition = true;
 
-            ShowPassCommand = new Command(async () =>
+            ShowPassCommand = new Command( () =>
             {
                 User.Condition = !User.Condition;
 
             });
 
-            ShowPassCommand1 = new Command(async () =>
+            ShowPassCommand1 = new Command( () =>
             {
                 User.Condition = !User.Condition;
 

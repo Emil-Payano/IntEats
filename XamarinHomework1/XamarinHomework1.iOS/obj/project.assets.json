@@ -1165,11 +1165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Emilp\\Downloads\\Last\\IntEats-master\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj",
       "projectName": "XamarinHomework1.iOS",
-      "projectPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj",
+      "projectPath": "C:\\Users\\Emilp\\Downloads\\Last\\IntEats-master\\XamarinHomework1\\XamarinHomework1.iOS\\XamarinHomework1.iOS.csproj",
       "packagesPath": "C:\\Users\\Emilp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Emilp\\Downloads\\Last\\IntEats-master\\XamarinHomework1\\XamarinHomework1.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1190,8 +1190,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj": {
-              "projectPath": "C:\\Users\\Emilp\\Downloads\\IntEeats1\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj"
+            "C:\\Users\\Emilp\\Downloads\\Last\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj": {
+              "projectPath": "C:\\Users\\Emilp\\Downloads\\Last\\IntEats-master\\XamarinHomework1\\XamarinHomework1\\XamarinHomework1.csproj"
             }
           }
         }
